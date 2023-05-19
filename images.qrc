@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Pictures/4171306_day_flower_gift_love_valentine_icon.ico</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
