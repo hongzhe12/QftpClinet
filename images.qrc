@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/new/prefix1"/>
     <qresource prefix="/">
-        <file>logo.ico</file>
+        <file>9040497_lightning_icon.ico</file>
     </qresource>
 </RCC>

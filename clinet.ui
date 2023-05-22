@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="images.qrc">
-    <normaloff>:/logo.ico</normaloff>:/logo.ico</iconset>
+    <normaloff>:/9040497_lightning_icon.ico</normaloff>:/9040497_lightning_icon.ico</iconset>
   </property>
   <widget class="QWidget" name="layoutWidget">
    <property name="geometry">

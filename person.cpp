@@ -9,6 +9,7 @@ person::person(QWidget* parent) :
     ui(new Ui::person)
 {
     ui->setupUi(this);
+    this->setWindowIcon(QIcon(":/9040497_lightning_icon.ico"));
     clinet_obj = new Clinet(nullptr);
     QObject::connect(this, SIGNAL(textEntered(QString)), clinet_obj, SLOT(onTextEntered(QString)));
 
