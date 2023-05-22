@@ -13,7 +13,10 @@ Clinet::~Clinet()
     delete ui;
 }
 
-
+void Clinet::onTextEntered(const QString& text)
+{
+    ui->lineEditClinetIP->setText(text);
+}
 
 // 选择文件按钮
 void Clinet::on_pushButtonSelectFile_clicked()

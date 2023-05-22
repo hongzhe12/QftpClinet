@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="images.qrc">
-    <normaloff>:/Pictures/4171306_day_flower_gift_love_valentine_icon.ico</normaloff>:/Pictures/4171306_day_flower_gift_love_valentine_icon.ico</iconset>
+    <normaloff>:/logo.ico</normaloff>:/logo.ico</iconset>
   </property>
   <widget class="QWidget" name="layoutWidget">
    <property name="geometry">

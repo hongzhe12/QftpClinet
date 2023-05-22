@@ -25,6 +25,9 @@ private slots:
 
     void on_pushButtonSendFile_clicked();
 
+    void onTextEntered(const QString& text); //自定义接收信号phone
+
+
 private:
     Ui::Clinet* ui;
 };
